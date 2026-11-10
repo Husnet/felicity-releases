@@ -1,9 +1,9 @@
 {
- "v": "2.5",
- "code": 16,
- "apk": "https://raw.githubusercontent.com/Husnet/felicity-releases/main/Felicity-Gubreleme-2.5.apk",
- "notes": "Gübreleme kayıtları artık o günkü tüm ayarları (seyreltme oranı, EC, tank hacimleri…) saklıyor; kaydı açınca aynı oranlar ve kilolar görünür.",
- "size": 2072637,
- "sha256": "fbc22711df24665e313b2bf887cffe96f4980a14ae7774b07f299927e6a2870b",
+ "v": "2.6",
+ "code": 17,
+ "apk": "https://raw.githubusercontent.com/Husnet/felicity-releases/main/Felicity-Gubreleme-2.6.apk",
+ "notes": "Kontrol: asit miktarını mL veya gram olarak girin, yeni pH hesaplanır. Güncellemeler artık her açılışta denetleniyor.",
+ "size": 2073067,
+ "sha256": "05d51c6bcf1340039b06374933128b8324126736a0d848885e659f874faa5822",
  "at": "2026-11-10"
 }
