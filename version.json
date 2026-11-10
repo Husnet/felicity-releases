@@ -1,9 +1,9 @@
 {
- "v": "2.4",
- "code": 15,
- "apk": "https://raw.githubusercontent.com/Husnet/felicity-releases/main/Felicity-Gubreleme-2.4.apk",
- "notes": "Menü iki gruba ayrıldı (Gübreleme · Sera ve bitki sağlığı). Yeni: Gübreleme kayıtları — Reçete'de veya Benim formülüm'de “Uygulandı olarak kaydet”.",
- "size": 2071441,
- "sha256": "74a2b92477872505bd600a9956c24a57f5e9e6ba165b3ce4d2c98873be00076c",
+ "v": "2.5",
+ "code": 16,
+ "apk": "https://raw.githubusercontent.com/Husnet/felicity-releases/main/Felicity-Gubreleme-2.5.apk",
+ "notes": "Gübreleme kayıtları artık o günkü tüm ayarları (seyreltme oranı, EC, tank hacimleri…) saklıyor; kaydı açınca aynı oranlar ve kilolar görünür.",
+ "size": 2072637,
+ "sha256": "fbc22711df24665e313b2bf887cffe96f4980a14ae7774b07f299927e6a2870b",
  "at": "2026-11-10"
 }
