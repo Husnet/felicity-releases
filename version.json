@@ -1,9 +1,9 @@
 {
- "v": "2.3",
- "code": 14,
- "apk": "https://raw.githubusercontent.com/Husnet/felicity-releases/main/Felicity-Gubreleme-2.3.apk",
- "notes": "Asistanda mikrofon: sorunuzu yazmak yerine söyleyin (Türkçe veya Fransızca).",
- "size": 2067430,
- "sha256": "6bbc9a6dea4b26d65037052c0fc49a2e61c6d4811f3fc55cf77b3ad94cef8bd7",
+ "v": "2.4",
+ "code": 15,
+ "apk": "https://raw.githubusercontent.com/Husnet/felicity-releases/main/Felicity-Gubreleme-2.4.apk",
+ "notes": "Menü iki gruba ayrıldı (Gübreleme · Sera ve bitki sağlığı). Yeni: Gübreleme kayıtları — Reçete'de veya Benim formülüm'de “Uygulandı olarak kaydet”.",
+ "size": 2071441,
+ "sha256": "74a2b92477872505bd600a9956c24a57f5e9e6ba165b3ce4d2c98873be00076c",
  "at": "2026-11-10"
 }
