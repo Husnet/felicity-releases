@@ -1,9 +1,9 @@
 {
- "v": "2.2",
- "code": 13,
- "apk": "https://raw.githubusercontent.com/Husnet/felicity-releases/main/Felicity-Gubreleme-2.2.apk",
- "notes": "Yapay zekâ asistanı her soruya yanıt veriyor ve formül öneriyor; Claude kredisi bitince Gemini devreye giriyor. Uygulama artık yeni sürümleri kendisi denetliyor.",
- "size": 2065457,
- "sha256": "086285fbb78718fbdf1cb64ad97ad1302d9a2ab2202a80566b73ddfdda9103e6",
+ "v": "2.3",
+ "code": 14,
+ "apk": "https://raw.githubusercontent.com/Husnet/felicity-releases/main/Felicity-Gubreleme-2.3.apk",
+ "notes": "Asistanda mikrofon: sorunuzu yazmak yerine söyleyin (Türkçe veya Fransızca).",
+ "size": 2067430,
+ "sha256": "6bbc9a6dea4b26d65037052c0fc49a2e61c6d4811f3fc55cf77b3ad94cef8bd7",
  "at": "2026-11-10"
 }
