@@ -1,9 +1,9 @@
 {
- "v": "2.6",
- "code": 17,
- "apk": "https://raw.githubusercontent.com/Husnet/felicity-releases/main/Felicity-Gubreleme-2.6.apk",
- "notes": "Kontrol: asit miktarını mL veya gram olarak girin, yeni pH hesaplanır. Güncellemeler artık her açılışta denetleniyor.",
- "size": 2073067,
- "sha256": "05d51c6bcf1340039b06374933128b8324126736a0d848885e659f874faa5822",
- "at": "2026-11-10"
+ "v": "2.7",
+ "code": 18,
+ "apk": "https://raw.githubusercontent.com/Husnet/felicity-releases/main/Felicity-Gubreleme-2.7.apk",
+ "notes": "Yeni: Hava durumu (Anamur) — 7 günlük tahmin, don/rüzgâr/Botrytis uyarıları; yapay zekâ asistanı tavsiyelerinde hava durumunu dikkate alıyor.",
+ "size": 2078781,
+ "sha256": "112525a44041a925532508df4f94154b1b65c2d46c1a09bdc9208ede953fcc8e",
+ "at": "2026-11-13"
 }
